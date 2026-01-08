@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**PoonamM123/PoonamM123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Poonam 👩‍💻
 
-Here are some ideas to get you started:
+I'm a **Full-Stack Engineer** passionate about building scalable backend APIs and pixel-perfect frontend experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend:** React, Redux Toolkit, Zustand, GSAP, TailwindCSS, Vite  
+- **Backend:** Node.js, Express, MongoDB, Mongoose, JWT Authentication, Middleware  
+- **Other Skills:** Advanced animation, state management, schema relationships, error handling
+
+## 📌 Current Focus
+- Building robust authentication flows (JWT + cookies)  
+- Mastering Mongoose `populate` and schema relationships  
+- Debugging and optimizing Vite + Tailwind configs  
+- Creating reusable frontend components with React Router
+
+## 🎯 Goals
+- Short-term: Deploy production-ready backend + frontend projects  
+- Long-term: Build ML-powered full-stack apps that blend backend intelligence with frontend polish
+
+## 🌐 Connect
+- [LinkedIn](#)  
+- [Portfolio](#)  
+- [GitHub](#)
+
+---
+✨ *Persistent, ambitious, and always chasing pixel-perfect + production-ready code.*
+
+
+---
+✨ *Persistent, ambitious, and always chasing pixel-perfect + production-ready code.*
+
