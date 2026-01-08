@@ -26,7 +26,3 @@ I'm a **Full-Stack Engineer** passionate about building scalable backend APIs an
 ---
 ✨ *Persistent, ambitious, and always chasing pixel-perfect + production-ready code.*
 
-
----
-✨ *Persistent, ambitious, and always chasing pixel-perfect + production-ready code.*
-
